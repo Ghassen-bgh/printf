@@ -63,7 +63,7 @@ $ ./a.out
 
 ## About
 
-Created on Ubuntu Ubuntu 20.04.3 LTS
+Created on Ubuntu 20.04.3 LTS
 
 Compiled with gcc , using flags: -Wall -Werror -Wextra and -pedantic
 
